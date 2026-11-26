@@ -1,0 +1,18 @@
+{
+  "name": "GTA: Xiva — Ichan Qal'a",
+  "short_name": "GTA: Xiva",
+  "description": "Xiva Ichan Qal'asida 3D sandbox o'yin: eshak arava, tandir non, kaptar pochtasi, atlas parashyut va Shashmaqom FM.",
+  "lang": "uz",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#060a16",
+  "theme_color": "#0a1226",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
